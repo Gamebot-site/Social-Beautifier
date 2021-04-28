@@ -4,7 +4,7 @@ An extension which beautifies krunker social</br>
 
 # Using Tampermonkey:
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. View [`content.js`](https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/content.js) file and click the Raw button at the top of the file to view its source
+2. View [`content.js`](https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/content.js) file.
 3. Copy the source
 4. Open Tampermonkey in your browser and click the Add Script tab 
 5. Paste the source into the script window and hit save
