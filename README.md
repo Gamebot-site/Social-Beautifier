@@ -1,6 +1,7 @@
 # Social-Beautifier
 An extension which beautifies krunker social</br>
-![image](https://user-images.githubusercontent.com/76865811/116400877-ff093200-a843-11eb-8c8e-3804cc1687f8.png)
+![image](https://user-images.githubusercontent.com/76865811/116443521-2fb19180-a86d-11eb-8f51-5f998cfad360.png)
+
 
 # Using Tampermonkey:
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
