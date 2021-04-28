@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Social Beautifier
 // @author       BlackThunder#4007
-// @version      0.1
+// @version      0.3
 // @description  Improves the UI of social
 // @match        *://*.krunker.io/social.html*
 // @downloadURL  https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.user.js
