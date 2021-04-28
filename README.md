@@ -9,10 +9,6 @@ An extension which beautifies krunker social
 5. Paste the source into the script window and hit save
 6. Voila!
 
-
-# Installing as Extension:
-If you don't want to use tampermonkey, simply go to Extensions in your chrome settings, and drag and drop the `crx` extension file.
-
 </br></br>
 For bug reports and suggestions, please join our [support server](https://discord.gg/gamebot). Please include image of console when reporting a bug.
 
