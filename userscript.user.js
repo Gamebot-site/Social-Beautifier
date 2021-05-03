@@ -3,7 +3,7 @@
 // @author       BlackThunder#4007
 // @version      0.5
 // @description  Improves the UI of social
-// @match        *://*.krunker.io/social.html?p=profile*
+// @match        *://*.krunker.io/social.html*
 // @downloadURL  https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.user.js
 // @updateURL    https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.meta.js
 // ==/UserScript==
