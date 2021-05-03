@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Social Beautifier
 // @author       BlackThunder#4007
-// @version      0.5
+// @version      0.6
 // @description  Improves the UI of social
 // @match        *://*.krunker.io/social.html*
 // @downloadURL  https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.user.js
-// @updateURL    https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.meta.js
+// @updateURL    https://raw.githubusercontent.com/Gamebot-site/Social-Beautifier/main/userscript.user.js
 // ==/UserScript==
 
 function getElementByXpath(path) {
@@ -109,4 +109,4 @@ waitForElementToDisplay("#rightProfile > div.leftMidHolder > span",manipulate,10
 addGlobalStyle(".follCount{margin-right:10px;}.follL{font-size: 14px;}.pSt strong{-webkit-text-stroke: .025em rgba(51,51,51,0.50);font-weight: 100;color:rgb(255 255 255);text-shadow: 0px 0px 2px #000000, 0px 0px 5px #000000, 0px 0px 8px #000000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0px 0px 1px #000000;font-size:14px;letter-spacing: 1px;-webkit-font-smoothing: antialiased;}")
 addGlobalStyle(".leftBottomHolder {top:90px;bottom:11px;}.pSt{background-image: linear-gradient(#b9b9b9, #757575);width: 140px;letter-spacing: 1px;margin-right: 0px;margin-left: 0px;border-radius: 0px;color: #ffce85;text-shadow:0px 0px 2px #000000, 0px 0px 5px #000000, 0px 0px 8px #000000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0px 0px 1px #000000 !important;}")
 addGlobalStyle(".rightMidHolder{top:57%}.leftMidHolder{top: 50%;}.material-icons{vertical-align: middle;text-shadow: none;}#followBtn{text-shadow: none;}#giftBtn{text-shadow: none;}#tradeBtn{text-shadow: none;}#verifyBtn{text-shadow: none;}#searchPInput{text-shadow: none;}#reprtBtn{text-shadow: none;}#shareBtn{text-shadow: none;}#flagBtn{text-shadow: none;}* {text-shadow: 0 0 5px #00000087;}.scrollItemNew{border-radius: 10px;padding-bottom: 5px;box-shadow: 0 0px 20px 3px #000 !important;width: 1000px;}.profileNav{box-shadow: 0 0px 20px 3px #000 !important;width: 1020px;}.xpBar{width: 975px;border-radius: 20px;}#socialPic{filter: drop-shadow(0px 0px 5px #000);}.xpBarB{border-bottom-left-radius: 20px;border-top-left-radius: 20px;background-image: linear-gradient(to right, #ffce85, #fffb85);}.xpBarV{text-shadow:0px 0px 2px #000000, 0px 0px 5px #000000, 0px 0px 8px #000000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0px 0px 1px #000000;}")
-addGlobalStyle("#postInput{text-shadow:none;}#postTime{text-shadow:none;}#postSubInfo{text-shadow:none;}.lName{text-shadow: 0 0 5px #00000087;}");
+addGlobalStyle("#postInput{text-shadow:none;}.postTime{text-shadow:none;}.postSubInfo{text-shadow:none;}.lName{text-shadow: 0 0 5px #00000087;}");
